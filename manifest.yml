@@ -1,0 +1,6 @@
+---
+applications:
+- name: equipment-mgmt-app
+  random-route: true
+  memory: 256M
+  path: target/EquipmentMgmtApp.war
